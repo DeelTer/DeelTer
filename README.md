@@ -1,4 +1,4 @@
-## Приветик, я Рома👋  
+## Hi, I'm Romashka👋  
   
 
 <a href="https://twitter.com/roma200315" target="_blank">
@@ -17,8 +17,8 @@
 
 
 
-### Обо мне  
-Я являюсь Java разработчиком со стажем в 4 года. Именно я придумал собственную обфускацию кода и придерживаюсь её по сей день. Результат можно оценить в моих [репозиториях](https://github.com/DeelTer?tab=repositories)  
+### About me  
+I am a Java developer with 4 years of experience. It was I who came up with my own code obfuscation and stick to it to this day. The result can be evaluated in my [repositories :D](https://github.com/DeelTer?tab=repositories)  
   
 
 <br/>  
@@ -27,20 +27,16 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👔 На данный момент работаю в команде [Spworlds](https://spworlds.ru)  
+- 👔 At the moment I work in a team [Spworlds](https://spworlds.ru)  
   
 
-- 🌺 Также у меня есть свой [Discord](https://discord.gg/NyejbExxVd)  
+- 🌺 I also have my own [Discord](https://discord.gg/NyejbExxVd)  
   
 
-- 🍌 А ещё у меня красивый голос  
+- 🍌 And I also have a beauty voice  
 
 
 </td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 50%" />
-</div>   
 
 
 </td></tr></table>  
