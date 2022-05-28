@@ -8,11 +8,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/deelter" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-<a href="https://vk.com/deelter_" target="_blank">
-<img src=https://img.shields.io/badge/vk-%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-blue" />
-</a>
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /> 
 </a>  
 <a href="https://pinterest.com/deelter" target="_blank">
 <img src=https://img.shields.io/badge/pinterest-%23EE4831.svg?&style=for-the-badge&logo=pinterest&logoColor=white" />
