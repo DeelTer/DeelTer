@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /> 
 </a>  
 <a href="https://pinterest.com/deelter" target="_blank">
-<img src=https://img.shields.io/badge/pinterest-%23EE4831.svg?&style=for-the-badge&logo=pinterest&logoColor=white" />
+<img src=https://img.shields.io/badge/pinterest-%23EE4831.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
 </a>
   
 
@@ -59,11 +59,11 @@ I am a Java developer with 4 years of experience. It was I who came up with my o
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deelter&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=deelter&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deelter&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deelter&theme=dark&hide_border=false" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
