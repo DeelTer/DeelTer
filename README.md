@@ -35,11 +35,11 @@ I am a Java developer with 4 years of experience. I put some of my developments 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deelter&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=deelter&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deelter&theme=dark&hide_border=false" align="left" style="width: 90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deelter&theme=dark&hide_border=false" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
