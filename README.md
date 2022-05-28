@@ -39,7 +39,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://media.discordapp.net/attachments/973891514021314560/977667697905131590/runmilk.gif" align="right" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 50%" />
 </div>   
 
 
