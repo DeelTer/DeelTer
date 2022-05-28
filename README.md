@@ -25,8 +25,6 @@ I am a Java developer with 4 years of experience. I put some of my developments 
   
 
 <br/>  
-
-
 ## Rapidfire  
 - 👔 Currently, I work at [Spworlds](https://spworlds.ru)  
 
