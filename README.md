@@ -28,18 +28,11 @@ I am a Java developer with 4 years of experience. It was I who came up with my o
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 👔 At the moment I work in a team [Spworlds](https://spworlds.ru)  
-  
 
 - 🌺 I also have my own [Discord](https://discord.gg/NyejbExxVd)  
   
-
-- 🍌 And I also have a beauty voice  
-
-
-</td><td valign="top" width="50%">
+- 🍌 And I also have a beauty voice
 
 
 </td></tr></table>  
