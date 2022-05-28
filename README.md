@@ -21,23 +21,18 @@
 
 
 ### About me  
-I am a Java developer with 4 years of experience. It was I who came up with my own code obfuscation and stick to it to this day. The result can be evaluated in my [repositories :D](https://github.com/DeelTer?tab=repositories)  
+I am a Java developer with 4 years of experience. I put some of my developments in open access, but most of my **[repositories](https://github.com/DeelTer?tab=repositories)** remain in the shadows. 
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 👔 At the moment I work in a team [Spworlds](https://spworlds.ru)  
+- 👔 Currently, I work at [Spworlds](https://spworlds.ru)  
 
-- 🌺 I also have my own [Discord](https://discord.gg/NyejbExxVd)  
+- 🌺 I also have my own [Discord server](https://discord.gg/NyejbExxVd)  
   
-- 🍌 And I also have a beauty voice
-
-
-</td></tr></table>  
-
-<br/>  
+- 🍌 I have a beautiful voice^^
 
 
 ## Languages and Tools  
