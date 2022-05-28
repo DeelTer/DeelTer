@@ -1,17 +1,20 @@
 ## Hi, I'm Romashka👋  
   
 
+<a href="https://www.youtube.com/user/deelter" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /> 
+</a>  
 <a href="https://twitter.com/roma200315" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/deelter_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/deelter" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /> 
-</a>  
 <a href="https://pinterest.com/deelter" target="_blank">
 <img src=https://img.shields.io/badge/pinterest-%23EE4831.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/deelter" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2300ace2.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
   
 
