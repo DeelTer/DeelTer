@@ -1,4 +1,4 @@
-## Hi, I'm Roma👋  
+## Hi, I'm Roman👋  
   
 
 <a href="https://www.youtube.com/user/deelter" target="_blank">
@@ -21,7 +21,7 @@
 
 
 ### About me  
-I am a Java developer with 5 years of experience. I put some of my developments in open access, but most of my **[repositories](https://github.com/DeelTer?tab=repositories)** remain in the shadows. 
+I am a Java developer with 5 years of unofficial experience. I put some of my developments in open access, but most of my **[repositories](https://github.com/DeelTer?tab=repositories)** remain in the shadows. 
 
 <br/>  
 
@@ -29,8 +29,6 @@ I am a Java developer with 5 years of experience. I put some of my developments 
 - 👔 Currently, I work at [Spworlds](https://spworlds.ru)  
 
 - 🌺 I also have my own [Discord server](https://discord.gg/NyejbExxVd)  
-  
-- 🍌 I have a beautiful voice^^
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
