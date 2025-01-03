@@ -25,11 +25,6 @@ I am a Java developer with 5 years of unofficial experience. I put some of my de
 
 <br/>  
 
-## Rapidfire  
-- 👔 Currently, I work at [Spworlds](https://spworlds.ru)  
-
-- 🌺 I also have my own [Discord server](https://discord.gg/NyejbExxVd)  
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
