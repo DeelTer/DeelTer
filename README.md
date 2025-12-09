@@ -21,7 +21,7 @@
 
 
 ### About me  
-I am a Java developer with 5 years of unofficial experience. I put some of my developments in open access, but most of my **[repositories](https://github.com/DeelTer?tab=repositories)** remain in the shadows. 
+Java developer with 5+ years experience. I put some of my developments in open access, but most of my **[repositories](https://github.com/DeelTer?tab=repositories)** remain in the shadows. 
 
 <br/>  
 
