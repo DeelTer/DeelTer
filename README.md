@@ -7,9 +7,6 @@
 <a href="https://vk.com/deelter" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2300acee.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/deelter_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://pinterest.com/deelter" target="_blank">
 <img src=https://img.shields.io/badge/pinterest-%23EE4831.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
 </a>
