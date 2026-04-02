@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Обо мне
 
-Java-разработчик с 5+ лет опыта.  
+Java-разработчик с 8+ годами опыта.  
 Я создаю полезные инструменты, делюсь ими в открытом доступе и помогаю сообществам расти.  
 Мои проекты охватывают Discord-боты, платёжные SDK (ЮKassa, Cryptomus), Minecraft-сервера, SMM и многое другое.
 
@@ -17,7 +17,7 @@ Java-разработчик с 5+ лет опыта.
 
 <p align="center">
   <a href="https://deelter.ru" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Посетить_сайт-FF337D?style=for-the-badge&logo=About.me&logoColor=white" alt="Сайт портфолио">
+    <img src="https://img.shields.io/badge/Посетить_сайт-FF337D?style=for-the-badge&logo=About.me&logoColor=white" alt="Сайт портфолио">
   </a>
 </p>
 
