@@ -2,7 +2,7 @@
 
 [![VK](https://img.shields.io/badge/VK-%230077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/deelter)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deelter)
-[![Portfolio](https://img.shields.io/badge/Сайт-FF337D?style=for-the-badge&logo=About.me&logoColor=white)](https://deelter.ru)
+[![Portfolio]([https://img.shields.io/badge/Port-FF337D?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/deelter.ru-FF337D?style=for-the-badge&logo=About.me&logoColor=white))](https://deelter.ru)
 
 ---
 
